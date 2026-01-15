@@ -23,8 +23,9 @@ I build intelligent systems that automate real-world problems using AI, backend 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00e5ff,100:8a2be2&height=90&section=footer" />
 </p>
+
 
 ---
 
