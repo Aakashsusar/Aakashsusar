@@ -3,13 +3,27 @@
 
 <p align="center">
 I build intelligent systems that automate real-world problems using AI, backend logic, and cloud tools.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI-powered+automation;Designing+intelligent+systems;AI+%7C+Automation+%7C+Backend+Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 ### 🧠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,nodejs,mysql,react,github" />
-  &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="100"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -25,4 +39,3 @@ I build intelligent systems that automate real-world problems using AI, backend 
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/aakashsusar4/
 - Email: susaraakash4@gmail.com
-
