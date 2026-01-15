@@ -6,24 +6,12 @@
 <p align="center">
 I build intelligent systems that automate real-world problems using AI, backend logic, and cloud tools.
 </p>
-
----
-
-### 🚀 What I Do
-- 🤖 AI/ML Projects (CNNs, Computer Vision, NLP basics)
-- ⚙️ Automation (n8n, backend logic, workflow optimization)
-- 🧠 Flask APIs & AI dashboards
-- ☁️ AWS (EC2, Lambda, deployment)
-- 🛒 E-commerce automation & validation systems
-
----
-
 ### 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,nodejs,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,nodejs,mysql,sql,react,node.js" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
