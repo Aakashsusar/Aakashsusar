@@ -8,7 +8,7 @@ I build intelligent systems that automate real-world problems using AI, backend 
 </p>
 ### 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,nodejs,mysql,sql,react,node.js" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,N8N,nodejs,mysql,sql,react,node.js" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
