@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1861" height="928" alt="image" src="https://github.com/user-attachments/assets/06044d64-e982-40d7-a586-c4d76dc1a14e" />## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aakash Susar</h1>
 <h3 align="center">AI / ML Engineer • Automation • Full-Stack Developer</h3>
@@ -6,10 +6,11 @@
 <p align="center">
 I build intelligent systems that automate real-world problems using AI, backend logic, and cloud tools.
 </p>
-### 🧠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,nodejs,mysql,sql,react,node.js,blockchain" />
+🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,nodejs,mysql,sqlite,react,github" />
 </p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
