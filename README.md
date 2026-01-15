@@ -8,12 +8,7 @@ I build intelligent systems that automate real-world problems using AI, backend 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,nodejs,mysql,react,github" />
   &nbsp;&nbsp;
-<img 
-  src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg"
-  width="44"
-  alt="n8n"
-/>
-
+<img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
