@@ -23,7 +23,7 @@ I build intelligent systems that automate real-world problems using AI, backend 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakashsusar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
