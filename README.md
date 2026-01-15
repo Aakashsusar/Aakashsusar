@@ -23,8 +23,9 @@ I build intelligent systems that automate real-world problems using AI, backend 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+POWERED+AUTOMATION;WORKFLOW+ORCHESTRATION;INTELLIGENT+BACKEND+SYSTEMS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakashsusar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 
