@@ -32,11 +32,10 @@ I build intelligent systems that automate real-world problems using AI, backend 
 ---
 
 ### 📌 Featured Projects
-- 🔬 **Skin Cancer Detection** – CNN-based medical image classification  
+- 🔬 **Skin Cancer Detection** – CNN-based medical image classification
 - 🧮 **TDEE Calculator** – Web app for health & fitness metrics  
-- 🤖 **Automation Systems** – Order validation & duplicate prevention  
-- 🌐 **Portfolio Website** – Personal developer portfolio  
-
+- 🤖 **AI Job Tracker** – Web platform Integrated with Python microservice to automatically parse job details from URLs.
+- ⚙️ **Automation Systems** – Order validation & duplicate prevention   
 ---
 
 ### 📫 Connect With Me
