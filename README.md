@@ -23,8 +23,9 @@ I build intelligent systems that automate real-world problems using AI, backend 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00e5ff,100:8a2be2&height=90&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+POWERED+AUTOMATION;WORKFLOW+ORCHESTRATION;INTELLIGENT+BACKEND+SYSTEMS" />
 </p>
+
 
 
 ---
