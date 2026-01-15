@@ -64,6 +64,10 @@ I build intelligent systems that automate real-world problems using AI, backend 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aakashsusar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ### 📌 Featured Projects
