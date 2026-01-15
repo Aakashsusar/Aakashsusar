@@ -56,10 +56,13 @@ I build intelligent systems that automate real-world problems using AI, backend 
 
 <p align="center">
   <a href="https://n8n.io/" target="_blank">
-    <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="100"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
