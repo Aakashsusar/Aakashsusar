@@ -19,7 +19,7 @@ I build intelligent systems that automate real-world problems using AI, backend 
 </p>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="100"/>
+<img src="https://raw.githubusercontent.com/n8n-io/n8n-docs/main/docs/assets/logos/n8n-logo-white.png" width="100" />
 </p>
 
 <p align="center">
