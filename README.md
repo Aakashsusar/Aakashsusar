@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**Aakashsusar/Aakashsusar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aakash Susar</h1>
+<h3 align="center">AI / ML Engineer • Automation • Backend Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build intelligent systems that automate real-world problems using AI, backend logic, and cloud tools.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- 🤖 AI/ML Projects (CNNs, Computer Vision, NLP basics)
+- ⚙️ Automation (n8n, backend logic, workflow optimization)
+- 🧠 Flask APIs & AI dashboards
+- ☁️ AWS (EC2, Lambda, deployment)
+- 🛒 E-commerce automation & validation systems
+
+---
+
+### 🧠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,nodejs,mysql,sqlite" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔬 **Skin Cancer Detection** – CNN-based medical image classification  
+- 🧮 **TDEE Calculator** – Web app for health & fitness metrics  
+- 🤖 **Automation Systems** – Order validation & duplicate prevention  
+- 🌐 **Portfolio Website** – Personal developer portfolio  
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aakashsusar4/
+- Email: susaraakash4@gmail.com
+
