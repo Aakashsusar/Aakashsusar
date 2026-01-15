@@ -2,7 +2,7 @@
 <h3 align="center">AI / ML • Automation • Full-Stack Developer</h3>
 
 <p align="center">
-I build intelligent systems that automate real-world problems using AI, backend logic, and cloud tools.
+I build intelligent systems that automate real-world problems using AI, backend logic.
 </p>
 
 <p align="center">
