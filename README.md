@@ -15,21 +15,51 @@ I build intelligent systems that automate real-world problems using AI, backend 
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,nodejs,mysql,firebase,react,github" />
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
 </p>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="100"/>
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aakashsusar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
