@@ -2,7 +2,7 @@
 <h3 align="center">AI / ML Engineer • Automation • Full-Stack Developer</h3>
 
 <p align="center">
-I build intelligent systems that automate real-world problems using AI, backend logic, and cloud tools.
+I build intelligent systems that automate real-world problems using AI, backend logic.
 </p>
 
 <p align="center">
@@ -18,8 +18,7 @@ I build intelligent systems that automate real-world problems using AI, backend 
   <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,nodejs,mysql,react,github" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="100"/>
 </p>
 
 <p align="center">
