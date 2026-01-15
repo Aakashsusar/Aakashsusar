@@ -4,6 +4,9 @@
 <p align="center">
 I build intelligent systems that automate real-world problems using AI, backend logic.
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aakashsusar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI-powered+automation;Designing+intelligent+systems;AI+%7C+Automation+%7C+Backend+Engineering" />
