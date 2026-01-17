@@ -73,8 +73,8 @@ I build intelligent systems that automate real-world problems using AI, backend 
 ### 📌 Featured Projects
 - 🔬 **Skin Cancer Detection** – CNN-based medical image classification
 - 🧮 **TDEE Calculator** – Web app for health & fitness metrics  
-- 🤖 **AI Job Tracker** – Web platform Integrated with Python microservice to automatically parse job details from URLs.
-- ⚙️ **Automation Systems** – Order validation & duplicate prevention   
+- 🤖 **Job Tracker** – Web platform Integrated with Python microservice to automatically parse job details from URLs.
+- ⚙️ ** Personal AI WhatsApp Agent** – An n8n-based AI assistant that automates reminders, task handling, and personalized WhatsApp interactions. 
 ---
 
 ### 📫 Connect With Me
